@@ -1,0 +1,1 @@
+This is a fork of the NASA CDFJ Library to support a Maven Build Process and handle some minor issues with unexposed methods.
